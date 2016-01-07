@@ -1,7 +1,12 @@
 # RJAA
 Narita Int'l Scenery for Flightgear
 
-TEST
+WORK IN PROGRESS
+
+WORK TO BE DONE
+JETWAYS TO BE ADDED 
+NIGHT TEXTURES
+TAXISIGNS
 
 
 
