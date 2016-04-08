@@ -1,2 +1,12 @@
-# RJAA-fg-CustomScenery
-Narita Airport for Flightgear
+# RJAA
+Narita Int'l Scenery for Flightgear
+
+WORK IN PROGRESS
+
+WORK TO BE DONE
+JETWAYS TO BE ADDED 
+NIGHT TEXTURES
+TAXISIGNS
+
+
+
