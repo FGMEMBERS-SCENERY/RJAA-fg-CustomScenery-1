@@ -3,8 +3,7 @@ Narita Int'l Scenery for Flightgear
 
 WORK IN PROGRESS
 
-WORK TO BE DONE
-JETWAYS 
+WORK TO BE DONE 
 TAXISIGNS
 
 
