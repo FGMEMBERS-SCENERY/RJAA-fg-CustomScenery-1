@@ -3,8 +3,9 @@ Narita Int'l Scenery for Flightgear
 
 WORK IN PROGRESS
 
-WORK TO BE DONE 
-TAXISIGNS
+TAXISIGNS TO BE ADDED
+
+NOT GPL YET.
 
 
 
